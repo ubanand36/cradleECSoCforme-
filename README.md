@@ -1,4 +1,4 @@
-# Projectz  ⟵⁠(⁠o⁠_⁠O⁠)
+# cradle ⟵⁠(⁠o⁠_⁠O⁠)
 
 A personal collection of small ideas, experiments, and geeky projects I'm exploring and building.
 
